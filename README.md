@@ -2,6 +2,7 @@
 
 https://github.com/chengyou-jia/ChatGen
 
+![image](workflow(5).png)
 
 ## Install
 
