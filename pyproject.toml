@@ -1,0 +1,14 @@
+[project]
+name = "chatgen"
+description = "ComfyUI nodes to use [a/ChatGen](https://github.com/chengyou-jia/ChatGen)"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/leeguandong/ComfyUI_ChatGen"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_ChatGen"
+Icon = ""
